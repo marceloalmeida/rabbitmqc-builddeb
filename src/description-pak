@@ -1,0 +1,3 @@
+RabbitMQ C AMQP client library
+
+This is a C-language AMQP client library for use with v2.0+ of the RabbitMQ broker.
